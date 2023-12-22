@@ -2,7 +2,6 @@
 <h3 align="center" style="margin-bottom: 15px;">Software Engineering Student at the University of Extremadura</h3>
 
 ### About me
-+ I'm in my **fourth year** at uni 
 + Interested in **low level software optimization**
 + I like C++ and Rust (and numbers too)
 + Currently building my ~~empty portfolio~~ website!
