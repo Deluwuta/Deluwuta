@@ -29,6 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
 </picture>
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=deluwuta&theme=catppuccin_mocha&count_private=true&show_icons=true"
@@ -40,7 +41,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
+-->
 ---
 
 <details>
