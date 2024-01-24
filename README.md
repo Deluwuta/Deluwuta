@@ -11,7 +11,7 @@
 ### Tools that I use
 + **OS**: I use Arch btw.
 + **Browser(s)**:
-  + **Firefox Dev Edition** with [Betterfox](https://github.com/yokoffing/Betterfox) as personal
+  + **Librewolf** with [Betterfox](https://github.com/yokoffing/Betterfox) or **Chromium (Thorium)** as personal
   + **Brave Browser** for uni
 + **Code**: Neovim + VsCode (and trying to learn Doom Emacs)
 
