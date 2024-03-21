@@ -15,8 +15,8 @@
   + **Brave Browser** for uni
 + **Code**: Neovim + VsCode (and trying to learn Doom Emacs)
 
----
 <!--
+---
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deluwuta&show_icons=true&layout=compact&theme=catppuccin_mocha&langs_count=8&hide=Roff,Yacc"
