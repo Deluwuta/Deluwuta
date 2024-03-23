@@ -73,7 +73,7 @@
 <details>
   <summary><i>The bottom (not me)</i></summary>
   
-   + **Discord** > simp_delta <br/>
+   + **Discord** > ashire._ <br/>
    + **Twitter** > [@ArchLinuxUser_](https://twitter.com/ArchUserBtw_) <br/>
    + **Github** > 🦀? <br/>
    + **Mail** > TODO! <br/>
