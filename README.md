@@ -54,8 +54,8 @@
   <a href="https://www.python.org/"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50></a>
   <br>
   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width=50 height=50></a>
-  <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=50 height=50></a>
-  <a href="https://www.lua.org/"><img alt="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" width=50 height=50></a>
+  <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width=50 height=50></a>
+  <a href="https://www.lua.org/"><img alt="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width=50 height=50></a>
 
   #### **Databases**
   <a href="https://www.oracle.com/"><img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width=50 height=50></a>
