@@ -2,18 +2,18 @@
 <h3 align="center" style="margin-bottom: 15px;">Software Engineering Student at the University of Extremadura</h3>
 
 ### About me
-+ Interested in **low level software optimization**
-+ I like C++ and Rust (and numbers too)
-+ Currently building my ~~empty portfolio~~ website!
++ Interested in **low level software optimization** and **reverse engineering**
++ I like Lua and Rust (and numbers too)
++ Currently building my ~~empty portfolio~~ website! (Not even started)
 
 ---
 
 ### Tools that I use
 + **OS**: I use Arch btw.
 + **Browser(s)**:
-  + **Librewolf** with [Betterfox](https://github.com/yokoffing/Betterfox) or **Chromium (Thorium)** as personal
+  + **Floorp** (Firefox fork) with [Betterfox](https://github.com/yokoffing/Betterfox) or **Chromium (Thorium)** as personal
   + **Brave Browser** for uni
-+ **Code**: Neovim + VsCode (and trying to learn Doom Emacs)
++ **Code**: Neovim + VsCode (and trying to learn Tmux 😎)
 
 <!--
 ---
