@@ -3,17 +3,16 @@
 
 ### About me
 + Interested in **low level software optimization** and **reverse engineering**
-+ I like Lua and Rust (and numbers too)
-+ Currently building my ~~empty portfolio~~ website! (Not even started)
++ I hate all programming languages equally (I like numbers though)
 
 ---
 
 ### Tools that I use
-+ **OS**: I use Arch btw.
++ **OS**: Archlinux.
 + **Browser(s)**:
-  + **Floorp** (Firefox fork) with [Betterfox](https://github.com/yokoffing/Betterfox) or **Chromium (Thorium)** as personal
-  + **Brave Browser** for uni
-+ **Code**: Neovim + VsCode (and trying to learn Tmux 😎)
+  + **Brave Browser** as main
+  + **Firefox** as second browser
++ **Code**: Neovim + VsCodium
 
 <!--
 ---
