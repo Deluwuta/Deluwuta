@@ -3,7 +3,7 @@
 
 ### About me
 + Interested in **low level software optimization** and **reverse engineering**
-+ I hate all programming languages equally (I like numbers though)
++ I hate all programming languages equally
 
 ---
 
@@ -67,6 +67,7 @@
 
 </details>
 
+<!--
 ---
 
 <details>
@@ -79,3 +80,4 @@
    + **Site** > WIP! <br/><br/>
 
 </details>
+-->
